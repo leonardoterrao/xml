@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<biblioteca>
+	<livro isbn="125473256">
+		<titulo xmlns="http://www.biblioteca.com.br/livro">Javando</titulo>
+		<autor>
+			<titulo xmlns="http://www.biblioteca.com.br/autor">R. Derpencio</titulo>
+			<nome>Derpencio Rerb</nome>
+		</autor>
+	</livro>
+	<livro isbn="55966514">
+		<titulo xmlns="http://www.biblioteca.com.br/livro">Java Foda</titulo>
+		<autor>
+			<titulo xmlns="http://www.biblioteca.com.br/autor">S. Derpina</titulo>
+			<nome>Derpina Silva</nome>
+		</autor>
+	</livro>
+	<livro isbn="6633548787">
+		<titulo xmlns="http://www.biblioteca.com.br/livro">Programação para iniciantes</titulo>
+		<autor>
+			<titulo xmlns="http://www.biblioteca.com.br/autor">F. Derpson</titulo>
+			<nome>Derpson Faria</nome>
+		</autor>
+	</livro>
+</biblioteca>

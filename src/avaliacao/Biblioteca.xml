@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca xmlns:livro = "http://www.biblioteca.com.br/livro"
+    xmlns:autor = "http://www.biblioteca.com.br/autor">
+        
+   <livro isbn="24">
+       <livro:titulo>The life of Justin Bieber</livro:titulo>
+       <autor>
+            <autor:titulo>The Biba Books</autor:titulo>
+            <nome>Diego Prandenho</nome>
+       </autor>
+   </livro>
+   
+   <livro isbn="24">
+       <livro:titulo>AAAAA</livro:titulo>
+       <autor>
+            <autor:titulo>VVVVV</autor:titulo>
+            <nome>CCCCCC</nome>
+       </autor>
+   </livro>
+   
+   <livro isbn="24">
+       <livro:titulo>EEEEEE</livro:titulo>
+       <autor>
+            <autor:titulo>FFFFFFF</autor:titulo>
+            <nome>XXXXXXX</nome>
+       </autor>
+   </livro>
+</biblioteca>

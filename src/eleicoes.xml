@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<eleicoes xmlns:prefeito="http://www.tre.gov.br/prefeito"
+          xmlns:vereador="http://www.tre.gov.br/vereador">
+    <prefeito:candidato 
+        partido="44" nome="Fulano">123</prefeito:candidato>
+    <prefeito:candidato 
+        partido="99" nome="Beltrano">122</prefeito:candidato>
+    <vereador:candidato
+        partido="44" nome="Ciclano">5</vereador:candidato>
+    <vereador:candidato
+        partido="44" nome="Hermanoteu">10</vereador:candidato>
+    <vereador:candidato
+        partido="44" nome="Hermelindo">7</vereador:candidato>
+    <vereador:candidato
+        partido="44" nome="Hastolfo">6</vereador:candidato>
+</eleicoes>
